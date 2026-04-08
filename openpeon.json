@@ -9,6 +9,7 @@
   },
   "license": "fair-use",
   "language": "es",
+  "icon": "icon.png",
   "categories": {
     "session.start": {
       "sounds": [
